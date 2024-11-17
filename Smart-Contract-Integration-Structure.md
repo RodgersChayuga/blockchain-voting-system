@@ -1,4 +1,4 @@
-# Project Structure
+# Project Integration Structure
 
 **contracts/**
   - `VotingSystem.sol`: Main smart contract
@@ -82,4 +82,3 @@ const handleVoteSubmit = async () => {
     console.error('Voting failed:', error);
   }
 };
-```
