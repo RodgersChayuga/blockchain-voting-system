@@ -1,0 +1,1 @@
+// Interface for your contract (optional but recommended)
